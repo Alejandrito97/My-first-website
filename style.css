@@ -71,7 +71,7 @@ body {
   margin: 0;
   font-size: 48px;
   color: #f9faf8;
-  weight: 900;
+  font-weight: 900;
 }
 
 .hero-text p {
